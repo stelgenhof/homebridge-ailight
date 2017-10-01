@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://"
+    "url": "git+https://github.com/stelgenhof/homebridge-ailight"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/stelgenhof/homebridge-ailight/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/stelgenhof/homebridge-ailight"
 }
