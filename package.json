@@ -1,0 +1,31 @@
+{
+  "name": "homebridge-ailight",
+  "description": "Homebridge plugin for the AiLight firmware",
+  "author": "Sacha Telgenhof",
+  "license": "MIT",
+  "version": "0.1.0",
+  "keywords": [
+    "homebridge-plugin",
+    "homekit",
+    "ailight",
+    "firmware",
+    "light"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": "6.11.3",
+    "homebridge": "0.4.28"
+  },
+  "dependencies": {
+    "request": "^2.82.0",
+    "colorsys": "^1.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
