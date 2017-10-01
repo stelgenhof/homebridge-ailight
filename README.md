@@ -48,7 +48,7 @@ The Homebridge AiLight Plugin registers itself as `AiLight`, with the following 
 ```
 
 ## Bugs and Feedback
-For bugs, questions and discussions, please use the [Github Issues](https://github.com/stelgenhof/AiLight/issues).
+For bugs, questions and discussions, please use the [Github Issues](https://github.com/stelgenhof/homebridge-ailight/issues).
 
 ## Contributing
 Contributions are encouraged and welcome; I am always happy to get feedback or pull requests on Github :) Create [Github Issues](https://github.com/stelgenhof/homebridge-ailight/issues) for bugs and new features and comment on the ones you are interested in.
