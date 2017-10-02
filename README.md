@@ -2,7 +2,13 @@
 Homebridge plugin for the AiLight firmware
 
 This is an accessory plugin for [Homebridge](https://github.com/nfarina/homebridge) allowing to manage and control
-light bulbs that use the [AiLight](https://github.com/stelgenhof/AiLight) firmware.
+light bulbs that use the [AiLight](https://github.com/stelgenhof/AiLight) firmware. 
+
+The plugin makes itself available to Homekit as a Lightbulb Accessory with the following characteristics:
+- Characteristic.On
+- Characteristic.Brightness
+- Characteristic.Hue
+- Characteristic.Saturation
 
 Current Stable Release: **v0.1.0** (Please read the [changelog](https://github.com/stelgenhof/homebridge-ailight/CHANGELOG.md) for detailed information).
 
