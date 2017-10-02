@@ -38,8 +38,8 @@ The Homebridge AiLight Plugin registers itself as `AiLight`, with the following 
     {
       "accessory": "AiLight",
       "name": "Bedroom Light",
-      "hostname": "<YOUR_HOSTNAME_OR_IP_ADDRESS>",
-      "apikey": "<YOUR_API_KEY>"
+      "hostname": "<YOUR_AILIGHT_IP_ADDRESS_OR_HOSTNAME_HERE>",
+      "apikey": "<YOUR_AILIGHT_API_KEY_HERE>"
     }
   ],
   "platforms": [
