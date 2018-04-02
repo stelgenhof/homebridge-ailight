@@ -3,7 +3,7 @@
   "description": "Homebridge plugin for the AiLight firmware",
   "author": "Sacha Telgenhof",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "homebridge-plugin",
     "homekit",
