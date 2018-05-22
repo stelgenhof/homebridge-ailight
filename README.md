@@ -10,7 +10,7 @@ The plugin makes itself available to Homekit as a Lightbulb Accessory with the f
 - Characteristic.Hue
 - Characteristic.Saturation
 
-Current Stable Release: **v0.1.0** (Please read the [changelog](https://github.com/stelgenhof/homebridge-ailight/CHANGELOG.md) for detailed information).
+Current Stable Release: **v0.1.3** (Please read the [changelog](https://github.com/stelgenhof/homebridge-ailight/CHANGELOG.md) for detailed information).
 
 ## Requirements
 This plugin communicates to your device via the REST API exposed by **AiLight** itself. As such you need to have v0.5.0 or higher of **AiLight** uploaded to your device. Furthermore, the REST API needs to be enabled. Please refer to [REST API](https://github.com/stelgenhof/AiLight/wiki/REST-API) instructions of **AiLight** how to set this up.
