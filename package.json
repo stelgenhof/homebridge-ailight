@@ -17,8 +17,8 @@
     "homebridge": "0.4.42"
   },
   "dependencies": {
-    "request": "^2.82.0",
-    "colorsys": "^1.0.10"
+    "colorsys": "^1.0.22",
+    "request": "^2.88.0"
   },
   "repository": {
     "type": "git",
