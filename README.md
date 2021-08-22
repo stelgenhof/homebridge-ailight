@@ -1,5 +1,7 @@
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+> **homebridge-ailight** is archived, as is the associated **[AiLight](https://github.com/stelgenhof/AiLight)** firmware. Go forth and fork **homebridge-ailight** if you like to improve it.
+
 # Homebridge AiLight Plugin
 Homebridge plugin for the AiLight firmware
 
