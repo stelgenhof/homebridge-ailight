@@ -8,6 +8,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ### Added
 
 ### Changed
+- Updated NPM modules
+- Updated copyright year
 
 ### Fixed
 
