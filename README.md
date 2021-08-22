@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # Homebridge AiLight Plugin
 Homebridge plugin for the AiLight firmware
 
